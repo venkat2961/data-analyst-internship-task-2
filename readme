@@ -1,0 +1,66 @@
+# 📊 Sales Performance Dashboard – Power BI
+
+## 📌 Overview
+
+An interactive **Sales Performance Dashboard** created using **Microsoft Power BI** to analyze sales performance and identify key business trends.
+
+## 🎯 Dashboard Objectives
+
+- Monitor overall sales performance
+- Analyze sales trends over time
+- Compare sales across product categories
+- Analyze sales by gender
+- Analyze quantity sold by product category
+- Provide interactive filtering for data analysis
+
+## 📊 Dashboard KPIs
+
+- **Total Sales:** 456K
+- **Total Quantity:** 3K
+- **Total Transactions:** 1K
+- **Average Sale:** 456.00
+
+## 📈 Visualizations
+
+### 1. Sales Trend Over Time
+Displays sales performance across different dates.
+
+### 2. Quantity Sold by Product Category
+Compares the quantity sold for:
+- Clothing
+- Electronics
+- Beauty
+
+### 3. Sales by Gender
+Shows the sales distribution between male and female customers.
+
+### 4. Sales by Product Category
+Compares total sales across different product categories.
+
+## 🎛️ Interactive Filters
+
+The dashboard includes slicers for:
+
+- Gender
+- Product Category
+- Date
+
+These filters allow users to interactively explore the sales data.
+
+## 🛠️ Tools Used
+
+- Microsoft Power BI
+- DAX
+- Data Visualization
+
+## 📷 Dashboard Preview
+
+![Sales Performance Dashboard](dashboard.png)
+
+## 👨‍💻 Author
+
+**Venkat Ramana**
+
+Aspiring Data Analyst
+
+**Skills:** SQL | Excel | Python | Power BI | Data Visualization
